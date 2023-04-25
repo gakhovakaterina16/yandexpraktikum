@@ -1,1 +1,177 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:20:46.560Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KQCztFeZIwMYknIwyEuH" version="17.4.3" type="device"><diagram id="rRmtudpdEV8kB-wlNoaQ" name="Page-1">7VlNc9owEP01PpLxBxA4Ygy0M81MOzn0LGyB1ciSK4tC+usrWR9I2CRk0jSdDBdhdqVd6+n5aS0Hybw6rBioyztaQBzEYXEIkiyI4yiJE/EjLY/KMppow5ahQnc6Gu7Rb6iNobbuUAEbryOnFHNU+8acEgJz7tkAY3Tvd9tQ7GetwRZ2DPc5wF3rd1TwUlkn8e3R/gmibWkyR+Op8lTAdNYzaUpQ0L1jShZBMmeUcnVVHeYQS/AMLmrc8ozX3hiDhF8ygO/wMp6tyPTw8O2O7EdJtGIDHeUXwDs94SALg2km2zQMsiiY3Jpr0aZtu9AT4o8GJUZ3pIAyURQk6b5EHN7XIJfeveCFsJW8wtrdvXFzF5BxeHBMeiIrSCvI2aPoor1DjakmVWQw3h+XyNpKZ3nMOKBZsbWRj8CJC43dC3CM+3GcabxkqzAdtZiO/zcE4/C9EUx6EBRIJW0beeyTbYtvOtGYdtAsabXeNe+C5KQPyaiL5OStkIz6yZgODQFFOzWwija+BFBLz/DfgBp5oA4vpedfAXWVH9Ii2qzWyY8v48Et/sy/9tEzHmORNa09pMY/d1LQ0w0lfKDNM9GDUFYBmaXFJ2zde33jPX4MOYds0AiMEdn2dhFI8gHAaEuUOxdoQ+a7kVg0ojOE9cF3cgZIsxFBTXgCbYc9ZYWfvTO8gDllgCNKesZXgG0R6Y7UsDDI87J/4ojAQXkeGBWgLROkN0pkcAO6uNrqX2wW4YnVeS6K4PpMPSJDozziWu2Ec/O4KItSqvbBilWHrmTNBs5DN3Iexrker0cq4UudKG7i0ExO0FjNz5+zMNentitFPyxFLaFCh1BDv+CwtLQ76axDq0VnQ5gYPg47+8PYiZw5D8Lyys0rN1351Hy5NezLPH4pHTyvl265dyPCgkoWGmTd1D6nLqXaK+ejo4hlJVfOdscXqKkxeFQeRCQTj3PHFHB3TA+451ZX4e2vwZpdV+BpNK9UfTOqyrIwc9TKFnHunqhkrq3jYrdiXDgbaGZOU8KO3i398vLktTd04s/NcLtfuwc2S2ds6tzbsi9C5ieyRejcjz904mdOTK/zzQkHcwyaxuPgrK4xHOSUtG+Faj1frwxXwXiNYJzZTK812geu0aax82JgyzG33B86QqaKuEu0z5ESq1DHRCfC1MrQUbyeFTv33WZh6kela64C2jsZdRJpsbt5hvp+HXlyKgYxRnUDpcqVoJbGgu7WGC6s/ZmTMkET+mA/LMRy2RDGc4opazMkBYCTTW5zv+pMLQn9k8pR90wtnvacqVnjCw7VxN/jl43W53wfShZ/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:32:06.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="H4OTJFwvF0Nm9EQiRpvY" version="21.2.0" type="github">
+  <diagram id="rRmtudpdEV8kB-wlNoaQ" name="Page-1">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tulF2AGn9xkQMnw531Gr-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tulF2AGn9xkQMnw531Gr-2" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tulF2AGn9xkQMnw531Gr-3" value="Начало поездки в промежутке&amp;nbsp;&lt;br&gt;00:01-08:00?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="180" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tulF2AGn9xkQMnw531Gr-12" value="Средняя скорость автомобиля 45 км/ч" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tulF2AGn9xkQMnw531Gr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tulF2AGn9xkQMnw531Gr-1" target="tulF2AGn9xkQMnw531Gr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-3" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-4" value="Начало поездки в промежутке&amp;nbsp;&lt;br&gt;08:01-12:00?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-5" value="Средняя скорость автомобиля 30 км/ч" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xwBLWMzEbxPc--7_NaSf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-8" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-9" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-10" value="Начало поездки в промежутке&amp;nbsp;&lt;br&gt;12:01-18:00?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-11" value="Средняя скорость автомобиля 40 км/ч" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="750" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xwBLWMzEbxPc--7_NaSf-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-14" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-15" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-17" value="Начало поездки в промежутке&amp;nbsp;&lt;br&gt;18:01-22:00?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-18" value="Средняя скорость автомобиля 25 км/ч" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="930" as="sourcePoint" />
+            <mxPoint x="560" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xwBLWMzEbxPc--7_NaSf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="660" as="sourcePoint" />
+            <mxPoint x="440" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-21" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-22" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-23" value="Начало поездки в промежутке&amp;nbsp;&lt;br&gt;22:01-00:00?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="900" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-24" value="Средняя скорость автомобиля 45 км/ч" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1110" as="sourcePoint" />
+            <mxPoint x="560" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xwBLWMzEbxPc--7_NaSf-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="840" as="sourcePoint" />
+            <mxPoint x="440" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-27" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-28" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="tulF2AGn9xkQMnw531Gr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1020" as="sourcePoint" />
+            <mxPoint x="440" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tulF2AGn9xkQMnw531Gr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="230" as="sourcePoint" />
+            <mxPoint x="390" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="230" />
+              <mxPoint x="720" y="710" />
+              <mxPoint x="720" y="1160" />
+              <mxPoint x="550" y="1160" />
+              <mxPoint x="470" y="1160" />
+              <mxPoint x="390" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="720" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="599" as="sourcePoint" />
+            <mxPoint x="720" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="910" as="sourcePoint" />
+            <mxPoint x="720" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwBLWMzEbxPc--7_NaSf-34" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwBLWMzEbxPc--7_NaSf-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1110" as="sourcePoint" />
+            <mxPoint x="720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
