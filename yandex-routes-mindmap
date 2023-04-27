@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T14:00:14.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3qkxJUTAJ5ZJU4VWGwKi" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T14:08:33.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="llaQgP2LQv8mVfbAQ4H1" version="21.2.2" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
     <mxGraphModel dx="2261" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -609,7 +609,7 @@
             <mxPoint x="1100" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-B21SJnLiUTo3UODUkq-250" value="На карте отображается точка с введённым адресом" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="F-B21SJnLiUTo3UODUkq-250" value="В поле ввода отображается введённый адрес, а на карте отображается точка с введённым адресом" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1410" y="-140" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F-B21SJnLiUTo3UODUkq-251" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="F-B21SJnLiUTo3UODUkq-52" target="F-B21SJnLiUTo3UODUkq-250" edge="1">
@@ -720,7 +720,7 @@
             <mxPoint x="1140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-B21SJnLiUTo3UODUkq-274" value="На карте отображается точка с введённым адресом" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="F-B21SJnLiUTo3UODUkq-274" value="В поле ввода отображается введённый адрес, а на карте отображается точка с введённым адресом" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1540" y="315" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F-B21SJnLiUTo3UODUkq-275" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="F-B21SJnLiUTo3UODUkq-264" target="F-B21SJnLiUTo3UODUkq-274" edge="1">
@@ -1047,8 +1047,8 @@
         <mxCell id="F-B21SJnLiUTo3UODUkq-345" value="Появляется картинка с такси и кнопка &quot;Вызвать такси&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1320" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s-mDerbGWc-tpf3XEuQ2-1" value="Надпись &quot;© Яндекс&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1445" width="140" height="45" as="geometry" />
+        <mxCell id="s-mDerbGWc-tpf3XEuQ2-1" value="Надпись &quot;Яндекс&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1500" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="s-mDerbGWc-tpf3XEuQ2-2" value="Кликабельная надпись &quot;Условия использования&quot;, по которой открывается соответсвующий документ&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
           <mxGeometry x="180" y="1410" width="190" height="80" as="geometry" />
@@ -1145,6 +1145,15 @@
         </mxCell>
         <mxCell id="s-mDerbGWc-tpf3XEuQ2-19" value="На карте строится маршрут между двумя точками" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
           <mxGeometry x="1680" y="95" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s-mDerbGWc-tpf3XEuQ2-20" value="Символ&amp;nbsp;©" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1495" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="s-mDerbGWc-tpf3XEuQ2-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F-B21SJnLiUTo3UODUkq-233" target="s-mDerbGWc-tpf3XEuQ2-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1400" as="sourcePoint" />
+            <mxPoint x="166" y="1510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
